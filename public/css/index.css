@@ -1,0 +1,10 @@
+.linkVideo{
+    color: black;
+    text-decoration: none;
+}
+.linkVideo:hover{
+    color:black;
+}
+#cardVideo:hover{
+    box-shadow: 0px 0px 5px grey;
+}

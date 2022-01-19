@@ -1,0 +1,16 @@
+.dropzoneover{
+    border-style: dashed;
+    text-align: center;
+    background-color: grey;
+}
+.dropzoneleave{
+    border-style: dashed;
+    text-align: center;
+    cursor: pointer;
+    background-color: rgb(94, 255, 115);
+}
+.dropzoneleave:hover{
+    border-style: dashed;
+    text-align: center;
+    background-color: grey;
+}
